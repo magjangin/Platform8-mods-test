@@ -1,0 +1,17 @@
+# System and Temp Files
+$RECYCLE.BIN/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# UE4SS Logs & Runtime Cache (if generated)
+ue4ss.log
+*.dump
+*.dmp
